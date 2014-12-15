@@ -1,4 +1,4 @@
 FlashMessenger
 ==============
 
-A notification framework used for web application inspired by ZendFramework's FlashMessenger helper.
+Inspired by ZendFramework's FlashMessenger plugin, the  FlashMessenger is a module designed to create and retrieve self-expiring, session-based messages for web applications. 
